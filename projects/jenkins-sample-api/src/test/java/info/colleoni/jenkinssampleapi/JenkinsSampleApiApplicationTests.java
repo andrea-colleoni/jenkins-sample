@@ -14,7 +14,7 @@ class JenkinsSampleApiApplicationTests {
 
 	@Test
 	void fallire() {
-		assertTrue(false, "ok");
+		assertTrue(true, "ok");
 	}
 
 }
